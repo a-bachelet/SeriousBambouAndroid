@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SeriousBambouGame</string>
+    <string name="title_maps">Bamboo Carte</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="mot_de_passe">Mot de passe:</string>
+</resources>
